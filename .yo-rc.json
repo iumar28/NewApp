@@ -6,6 +6,7 @@
     "cacheProvider": "ehcache",
     "clientFramework": "react",
     "clientPackageManager": "npm",
+    "creationTimestamp": 1731166620000,
     "databaseType": "sql",
     "devServerPort": 9060,
     "enableHibernateCache": true,
